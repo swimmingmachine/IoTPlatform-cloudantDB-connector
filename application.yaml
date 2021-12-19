@@ -1,5 +1,5 @@
 identity:
     appId: frailty
 auth:
-    key: "your cloudant service auth key"
-    token: "your cloudant service auth token"
+    key: "your iot platform service auth key"
+    token: "your iot platform service auth token"
