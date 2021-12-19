@@ -1,0 +1,5 @@
+identity:
+    appId: frailty
+auth:
+    key: "your cloudant service auth key"
+    token: "your cloudant service auth token"
